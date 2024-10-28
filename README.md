@@ -26,5 +26,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ilpellegrino&show_icons=true&theme=dark&locale=en" alt="ilpellegrino" /></p>
 
-
+<p>&nbsp;[![<nromito>'s 42 stats](https://badge.mediaplus.ma/darkblue/<username>)](https://github.com/oakoudad/badge42) /></p>
 
