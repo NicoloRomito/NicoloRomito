@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #ffffff;">Hi 👋, I'm Nicolo'</h1>
+<h1 align="center" style="color: #ffffff;">About me:</h1>
 
 - 🔭 I’m currently working on **42 projects**
 
