@@ -1,5 +1,4 @@
 <h1 align="center" style="color: #ffffff;">Hi 👋, I'm Nicolo'</h1>
-<p align="left"> <a href="https://twitter.com/@nico15tennis" target="blank"><img src="https://img.shields.io/twitter/follow/@nico15tennis?logo=twitter&style=for-the-badge" alt="@nico15tennis" /></a> </p>
 
 - 🔭 I’m currently working on **42 projects**
 
