@@ -27,8 +27,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ilpellegrino&show_icons=true&theme=dark&locale=en" alt="ilpellegrino" /></p>
 
-<h3 align="left" style="color: #ffffff;">42 Stats:</h3>
-<p align="left">
-  <img src="https://badge42.vercel.app/api/v2/cl1lva82i002509me2yi3g0b8/stats?cursusId=21&coalitionId=66" alt="42 stats" />
-</p>
+
 
