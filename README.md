@@ -26,7 +26,7 @@
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ilpellegrino&show_icons=true&theme=dark&locale=en" alt="ilpellegrino" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NicoloRomito&show_icons=true&theme=dark&locale=en" alt="NicoloRomito" /></p>
 
 [![nromito's 42 stats](https://badge.mediaplus.ma/greenbinary/nromito?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
