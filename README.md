@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **42 projects**
 
-- 🌱 I’m currently learning **Docker and Cybersecurity**
+- 🌱 I’m currently learning **Docker, JavaScript, TypeScript, React and Cybersecurity**
 
 - 📫 How to reach me **nicoloromito@protonmail.com**
 
