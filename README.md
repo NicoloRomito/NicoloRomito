@@ -50,7 +50,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> 
   </a>
   <a href="https://primeng.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/primeng.svg" alt="primeng" width="40" height="40"/> 
+    <img src="https://github.com/dochne/wappalyzer/blob/main/src/images/icons/PrimeNG.svg" alt="primeng" width="40" height="40"/> 
   </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> 
